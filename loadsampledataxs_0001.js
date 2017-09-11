@@ -10,7 +10,7 @@ var positions = [3453,1543,1123,55543,345,222,543,5746,4234];
 var jobs = [12,55,44,22,345,52,112,674,76575];
 var personnel_areas = ["AR00", "AR01", "DC00", "DC01"];
 var personnel_subareas = ["3200", "1100", "4321", "9483"];
-var company_codes = ["IDB1", "IIC1"];
+var company_codes = ["IBD1", "ICI1"];
 
 var cnt = 1;
 for(var i=startEmployeeNum;i<=endEmployeeNum;i++){
